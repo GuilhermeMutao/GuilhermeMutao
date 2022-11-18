@@ -1,4 +1,4 @@
-# Olá <img src ="https://raw.githubusercontent.com/guilherme-mutao/guilherme-mutao/master//hi.gif" height="30px">
+# Olá <img src ="https://raw.githubusercontent.com/GuilhermeMutao/GuilhermeMutao/master//hi.gif" height="30px">
 ### Me chamo Guilherme Mutão e estudo Análise e Desenvolvimento de Sistemas, meu foco é em desenvolvimento Front-end 
 
 <h3 align="center"> Converse comigo 🤝 </h3>
@@ -8,7 +8,7 @@
 <a href="mailto:mutao@duck.com"><img src="https://img.shields.io/badge/GMAIL-e34c41?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br><br>
 
-<img align="center" width="725em" src ="https://raw.githubusercontent.com/guilherme-mutao/guilherme-mutao/master//githubart.PNG" >
+<img align="center" width="725em" src ="https://raw.githubusercontent.com/GuilhermeMutao/GuilhermeMutao/master//githubart.PNG" >
  <a href="https://github.com/guilherme-mutao">
 </p>
 
