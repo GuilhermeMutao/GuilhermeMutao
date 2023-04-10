@@ -1,5 +1,4 @@
 # Olá <img src ="https://raw.githubusercontent.com/GuilhermeMutao/GuilhermeMutao/master//hi.gif" height="30px">
-### Me chamo Guilherme Mutão e estudo Análise e Desenvolvimento de Sistemas, meu foco é em desenvolvimento Front-end 
 
 <h3 align="center"> Converse comigo 🤝 </h3>
 <p align="center">
